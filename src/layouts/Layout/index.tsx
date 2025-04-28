@@ -89,9 +89,6 @@ export const Layout: React.FC = () => {
                     ? "2px solid blue"
                     : "1px solid grey",
                 cursor: "pointer",
-                // Ensure the container div takes up necessary space, adjust if needed
-                padding: "5px", // Add some padding around the component
-                margin: "5px 0", // Add some margin
               }}
             >
               {/* Render the actual component dynamically */}

@@ -11,6 +11,11 @@ export const COMPONENT_MANIFEST = [
     "components": []
   },
   {
+    "name": "papu",
+    "path": "/components/papu",
+    "components": []
+  },
+  {
     "name": "Rules",
     "path": "/components/Rules",
     "components": []
